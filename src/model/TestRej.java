@@ -4,13 +4,13 @@ public class TestRej {
 
 	 private String account;
 	 private String name;
-	 private String professional;  //专业
-	 private String course;  //课程名
+	 private String professional;  
+	 private String course;   
 	 private int term;
 	 private String workname;
 	 private String composer;
-	 private String type; //课堂类型
-	 private int state;  //是否通过老师审核，0为未报名,1为审核中,2为审核通过。
+	 private String type;  
+	 private int state;   
 	 
 	public String getAccount() {
 		return account;
