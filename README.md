@@ -13,4 +13,4 @@ Javabean+Servlet+Jdbc+Jsp+Bootstrap。
 
 Jfinal+Jquery+BootStrap。
 
-注意：本项目版权归[作者](http://weibo.com/276083344 "JKXQJ")所有，仅供Java Web初学者下载学习使用，未经许可不能作为其它用途。
+注意：本项目版权归[作者](http://blog.csdn.net/jkxqj)所有，仅供Java Web初学者下载学习使用，未经许可不能作为其它用途。
